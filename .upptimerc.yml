@@ -3,14 +3,14 @@ owner: schalkburger # Your GitHub organization or username, where this repositor
 repo: server-status # The name of this repository
 
 sites:
-  - name: Schalk Burger
+  - name: Schalk Burger Website
     url: https://schalkburger.io
-  - name: Logicbuilds
+  - name: Logicbuilds Website
     url: https://logicbuilds.co.za
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Darky Beans Two
+    check: "tcp-ping"
+    url: 102.65.185.2
+    port: 28015
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
