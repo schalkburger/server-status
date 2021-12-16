@@ -19,7 +19,7 @@ status-website:
   baseUrl: /server-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Schalk's Server Status Page
-  introTitle: ""
+  introTitle: "View the server status of my websites and servers."
   introMessage: ""
   navbar:
     - title: Status
