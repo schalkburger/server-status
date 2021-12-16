@@ -18,7 +18,8 @@ status-website:
   cname: status.schalkburger.io
   # baseUrl: /server-status
   logoUrl: ""
-  themeUrl: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/theme.css
+  theme: dark
+  themeUrl: https://status.schalkburger.io/theme.css
   name: Schalk's Server Status Page
   introTitle: "View the server status of my websites and servers."
   introMessage: ""
