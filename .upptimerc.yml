@@ -15,9 +15,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /server-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.schalkburger.io
+  # baseUrl: /server-status
+  logoUrl: ""
   name: Schalk's Server Status Page
   introTitle: "View the server status of my websites and servers."
   introMessage: ""
