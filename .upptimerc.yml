@@ -10,14 +10,15 @@ sites:
   - name: Darky Beans Two
     url: https://api.trackyserver.com/widget/index.php?id=1488111
     __dangerous__body_down: "offline"
-  - name: Darky Beans Two Server 1
-    check: "tcp-ping"
-    url: 102.65.185.2
-    port: 28015
-  - name: Darky Beans Two Server 2
-    check: "tcp-ping"
-    url: 102.65.185.2
-    port: 28016
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
