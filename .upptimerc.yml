@@ -7,10 +7,14 @@ sites:
     url: https://schalkburger.io
   - name: Logicbuilds Website
     url: https://logicbuilds.co.za
-  - name: Darky Beans Two
+  - name: Darky Beans Two Server 1
     check: "tcp-ping"
     url: 102.65.185.2
     port: 28015
+  - name: Darky Beans Two Server 2
+    check: "tcp-ping"
+    url: 102.65.185.2
+    port: 28016
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
