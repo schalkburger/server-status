@@ -20,7 +20,7 @@ status-website:
   name: Schalk's Server Status Page
   introTitle: "View the server status of my websites and servers."
   introMessage: ""
-  theme: "dark"
+  theme: "ocean"
   favicon: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/android-chrome-96x96.png
   # themeUrl: https://status.schalkburger.io/my-custom-theme.css
   navbar:
