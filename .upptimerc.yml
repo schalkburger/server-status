@@ -21,11 +21,10 @@ status-website:
   introTitle: "View the server status of my websites and servers."
   introMessage: ""
   theme: "dark"
-  themeUrl: https://status.schalkburger.io/my-custom-theme.css
+  favicon: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/android-chrome-96x96.png
+  # themeUrl: https://status.schalkburger.io/my-custom-theme.css
   navbar:
     - title: Status
       href: /
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  # i18n:
+  # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
