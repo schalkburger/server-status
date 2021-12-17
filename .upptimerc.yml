@@ -7,6 +7,9 @@ sites:
     url: https://schalkburger.io
   - name: Logicbuilds Website
     url: https://logicbuilds.co.za
+  - name: Darky Beans Two
+    url: https://api.trackyserver.com/widget/index.php?id=1488111
+    __dangerous__body_down: "offline"
   - name: Darky Beans Two Server 1
     check: "tcp-ping"
     url: 102.65.185.2
