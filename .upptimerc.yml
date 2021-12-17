@@ -15,12 +15,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  name: Schalk's Server Status Page
   cname: status.schalkburger.io
   # baseUrl: /server-status
-  logoUrl: ""
+  logoUrl: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/server-status-logo.png
   theme: dark
-  themeUrl: https://status.schalkburger.io/theme.css
-  name: Schalk's Server Status Page
+  themeUrl: https://status.schalkburger.io/my-custom-theme.css
   introTitle: "View the server status of my websites and servers."
   introMessage: ""
   navbar:
