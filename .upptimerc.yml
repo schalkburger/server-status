@@ -7,7 +7,7 @@ sites:
     url: https://schalkburger.io
   - name: Logicbuilds Website
     url: https://logicbuilds.co.za
-  - name: Darky Beans Two
+  - name: Rust Server
     url: https://api.trackyserver.com/widget/index.php?id=1488111
     __dangerous__body_down: "offline"
 
