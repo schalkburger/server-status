@@ -26,7 +26,7 @@ status-website:
   cname: status.schalkburger.io
   logoUrl: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/server-status-logo.png
   name: Schalk's Server Status Page
-  introTitle: "View the server status of my websites and servers."
+  introTitle: "View the status of my websites and servers."
   introMessage: ""
   theme: "ocean"
   favicon: https://raw.githubusercontent.com/schalkburger/server-status/master/assets/android-chrome-96x96.png
