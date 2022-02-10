@@ -7,9 +7,13 @@ sites:
     url: https://schalkburger.io
   - name: Logicbuilds Website
     url: https://logicbuilds.co.za
-  - name: Rust Server
+  - name: Rust Server 1
     url: https://api.trackyserver.com/widget/index.php?id=1488111
     __dangerous__body_down: "offline"
+  - name: Rust Server 1
+    check: "tcp-ping"
+    url: 169.1.134.159
+    port: 28015
 
 workflowSchedule:
   graphs: "0 0 * * *"
