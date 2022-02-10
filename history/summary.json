@@ -44,17 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/api.trackyserver.com",
     "slug": "rust-server-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 506,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
-    "dailyMinutesDown": {}
+    "uptime": "93.51%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "93.51%",
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Rust Server 1",
@@ -62,16 +64,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rust-server-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 506,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
-    "dailyMinutesDown": {}
+    "uptime": "93.51%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "93.51%",
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   }
 ]
