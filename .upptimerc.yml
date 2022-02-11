@@ -7,10 +7,7 @@ sites:
     url: https://schalkburger.io
   - name: Logicbuilds Website
     url: https://logicbuilds.co.za
-  - name: Rust Server 1
-    url: https://rust-servers.net/api/?object=servers&element=detail&key=rhrKS2wuFtDgK0YGkCNfx3FD21pw2arBIL
-    body: '{ "is_online": "1" }'
-  - name: Rust Server 2
+  - name: Rust Server
     url: https://rust-servers.net/server/165972/
     __dangerous__body_down: "Offline"
 
